@@ -23,8 +23,8 @@ The script helps compute and analyze uplink parameters typically used in satelli
 
 ### Run
 Open a terminal in the repository folder and execute:
-```bash
-python Uplink.py
+```bash python Uplink.py```
+
 How to use / Inputs
 Depending on how the script was implemented, it may:
 
